@@ -166,17 +166,7 @@ module Typus
     end
 
     def locales
-      { "Català" => "ca",
-        "German" => "de",
-        "Greek"  => "el",
-        "English" => "en",
-        "Español" => "es",
-        "Français" => "fr",
-        "Magyar" => "hu",
-        "Italiano" => "It",
-        "Portuguese" => "pt-BR",
-        "Russian" => "ru",
-        "中文" => "zh-CN" }
+      { "Español" => "es" }
     end
 
     def application_models
